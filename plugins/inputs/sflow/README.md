@@ -108,7 +108,7 @@ sflow,agent_address=0.0.0.0,dst_ip=10.0.0.2,dst_mac=ff:ff:ff:ff:ff:ff,dst_port=4
 ### Reference Documentation
 
 This sflow implementation was built from the reference document 
-[sflow.org/sflow_version_5.txt](sflow_version_5)
+[https://sflow.org/sflow_version_5.txt](sflow_version_5)
 
 
 [metric filtering]: https://github.com/influxdata/telegraf/blob/master/docs/CONFIGURATION.md#metric-filtering
